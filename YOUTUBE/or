@@ -1,0 +1,9 @@
+SIGNIN:text
+EmailorPhone:"identifierId"
+Next:".//*[@id='identifierNext']"
+Enteryourpassword:"password"
+Trending:".//span[Contains(text(),'Trending')]"
+Subscriptions:".//span[text()='Subscriptions']"
+like:".//button[Contains(@aria-label='like')]"
+Subscribe:"//div[@id='subscribe-button']"
+ls:"video-title"
