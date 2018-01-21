@@ -30,7 +30,7 @@ public class Login_Class
 			 Thread.sleep(3000);
 			 WebElement next=driver.findElement(By.xpath(pr.getProperty(".//span[text()='Next']")));
 			 next.click();
-			 
+			 System.out.println("Change update");
 	}
 
 }
